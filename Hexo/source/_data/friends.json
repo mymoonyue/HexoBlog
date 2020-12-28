@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Love",
+    "url": "https://csc97.top/love",
+    "title": "点我点我",
+    "introduction": "My Love",
+    "avatar": "/medias/avatars/Love.png"
+  },
+  {
+    "name": "Love Show",
+    "url": "https://csc97.top/loveshow",
+    "title": "点我点我",
+    "introduction": "Our Love Show",
+    "avatar": "/medias/avatars/Love Show.png"
+  },
+  {
+    "name": "Love Photo",
+    "url": "https://csc97.top/lovePhoto",
+    "title": "点我点我",
+    "introduction": "Our Love Photos",
+    "avatar": "/medias/avatars/Love Photo.png"
+  },
+  {
+    "name": "My Github",
+    "url": "https://github.com/mymoonyue",
+    "title": "访问主页",
+    "introduction": "我的github，欢迎大家star",
+    "avatar": "/medias/avatars/mygithub.png"
+  }
+]
